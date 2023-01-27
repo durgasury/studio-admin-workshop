@@ -13,16 +13,16 @@ For best practices in setting up SageMaker Studio, refer to the whitepaper here 
 
 ## Labs
 
-Lab 1: Create a least privilege role for data scientists using Role Manager
+[Lab 1: Create a least privilege role for data scientists using Role Manager](/lab%201/lab1_readme.md)
 
-Lab 2: Create a domain
+[Lab 2: Create a domain](/lab%202/lab2_readme.md)
 
-Lab 3: Customize the domain by setting lifecycle configurations
+[Lab 3: Customize the domain by setting lifecycle configurations](/lab%203/lab3_readme.md)
 
-Lab 4: Access the Studio UI by creating a pre-signed URL using AWS CLI
+[Lab 4: Access the Studio UI by creating a pre-signed URL using AWS CLI](/lab%204/lab4_readme.md)
 
-Lab 5: Launch a Studio notebook
+[Lab 5: Launch a Studio notebook](/lab%205/lab5_readme.md)
 
-Lab 6: Create an end-to-end SageMaker Project
+[Lab 6: Create an end-to-end SageMaker Project](/lab%206/lab6_readme.md)
 
-Lab 7: Launch a shared space
+[Lab 7: Launch a shared space](/lab%207/lab7_readme.md)
